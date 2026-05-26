@@ -37,6 +37,7 @@ PowerShell logging allows visibility into:
 ```spl id="gf4z0p"
 index=windows EventCode=4104
 | table _time ScriptBlockText
+```
 
 ---
 
@@ -46,3 +47,5 @@ index=windows EventCode=4104
 | T1059.001 | PowerShell |
 | T1082	| System Discovery |
 | T1057 | Process Discovery |
+
+---
