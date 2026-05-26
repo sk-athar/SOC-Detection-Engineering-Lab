@@ -24,17 +24,17 @@ git clone --recursive https://github.com/mitre/caldera.git
 ---
 
 ## Environment Setup
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
+```
 ---
 
 ## Startup Command
-
+```bash
 python3 server.py --build --insecure
-
+```
 ---
 
 ## Plugins Used
