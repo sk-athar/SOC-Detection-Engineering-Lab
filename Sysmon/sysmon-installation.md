@@ -20,6 +20,7 @@ Sysmon64
 ```powershell
 Sysmon64.exe -accepteula -i sysmonconfig.xml
 
+```
 ---
 
 ## Configuration
