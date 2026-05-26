@@ -21,6 +21,7 @@ Sysmon64
 Sysmon64.exe -accepteula -i sysmonconfig.xml
 ```
 
+```
 ---
 
 ## Configuration

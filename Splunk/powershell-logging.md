@@ -37,7 +37,7 @@ PowerShell logging allows visibility into:
 ```spl id="gf4z0p"
 index=windows EventCode=4104
 | table _time ScriptBlockText
-```
+``````
 
 ---
 
