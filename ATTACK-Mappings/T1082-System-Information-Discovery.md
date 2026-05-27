@@ -447,24 +447,20 @@ Determine:
 
 ![WMIC Process Creation Detection](../Screenshots/ATTACK-Mappings/T1082-System-Information-Discovery/t1082-wmic-process-creation.png)
 
-### Found 
-ParentImage - cmd.exe
-Image - WMIC.exe
-CommandLine - multiple hardware enumeration commands
-
----
-
-## 2. Process Tree Investigation
-
-![Process Tree Analysis](../Screenshots/ATTACK-Mappings/T1082-System-Information-Discovery/t1082-process-tree-analysis.png)
-
 ### Investigation Findings
 
 The telemetry confirmed:
 - cmd.exe spawned wmic.exe
 - WMIC executed multiple hardware enumeration commands
 - command-line visibility was successfully preserved through Sysmon Event ID 1 logging
-- process lineage reconstruction was possible using ParentImage telemetry 
+- process lineage reconstruction was possible using ParentImage telemetry
+
+---
+
+## 2. Process Tree Investigation
+
+![Process Tree Analysis](../Screenshots/ATTACK-Mappings/T1082-System-Information-Discovery/t1082-process-tree-analysis.png)
+ 
 
 ---
 
