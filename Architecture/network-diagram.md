@@ -1,5 +1,5 @@
 # SOC Lab Architecture
-
+![Architecture Diagram of the Operation](../Screenshots/Architecture/lab-architecture-diagram.png)
 ## Overview
 
 This lab was designed to simulate a real-world SOC environment focused on:
