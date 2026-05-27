@@ -119,10 +119,11 @@ Sysmon integration enabled:
 
 ### Sysmon Events in Splunk
 
-![Sysmon Events](../Screenshots/Splunk/sysmon-events-in-splunk.png)
+![Sysmon Events](../Screenshots/Splunk/sysmon-events-in-splunk1.png)
 
 ---
 
+![Sysmon Events](../Screenshots/Splunk/sysmon-events-in-splunk2.png)
 
 ---
 

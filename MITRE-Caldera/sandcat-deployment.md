@@ -121,6 +121,8 @@ index=sysmon EventCode=1
 
 ### Sandcat Agent Active
 
+![Deploying Sandcat Agent](../Screenshots/MITRE-Caldera/deploy-sandcat-agent.png)
+
 ![Sandcat Agent](../Screenshots/MITRE-Caldera/caldera-sandcat-agent-active.png)
 
 ---
