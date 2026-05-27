@@ -70,14 +70,14 @@ The lab focuses on:
 ## Detection Engineering
 
 Detection queries and hunting logic are documented in:
-- `/Detection-Queries`
+- <a href="https://github.com/sk-athar/SOC-Detection-Engineering-Lab/blob/main/Detection-Queries> `/Detection-Queries`
 
 ---
 
 ## Investigation Playbooks
 
 Investigation methodologies are documented in:
-- `/Investigation-Playbooks`
+- <a href="https://github.com/sk-athar/SOC-Detection-Engineering-Lab/blob/main/Investigation-Playbooks/general-investigation-workflow.md">`General-investigation-workflow`
 
 ---
 
