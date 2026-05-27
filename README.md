@@ -27,7 +27,7 @@ The lab focuses on:
 | System | Purpose |
 |---|---|
 | Kali Linux | Splunk + MITRE Caldera |
-| Windows 10 | Victim / Telemetry Source |
+| Windows 10 | Victim / Telemetry Source + Atomic Red Team |
 | Windows 7 | Legacy Testing |
 | Metasploitable2 | Linux Target |
 
