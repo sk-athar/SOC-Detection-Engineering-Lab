@@ -70,7 +70,7 @@ The lab focuses on:
 ## Detection Engineering
 
 Detection queries and hunting logic are documented in:
-- <a href="https://github.com/sk-athar/SOC-Detection-Engineering-Lab/blob/main/Detection-Queries> `/Detection-Queries`
+- <a href="https://github.com/sk-athar/SOC-Detection-Engineering-Lab/blob/main/Detection-Queries"> `Detection-Queries`
 
 ---
 
