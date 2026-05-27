@@ -61,7 +61,7 @@ The lab focuses on:
 
 | Technique | Description |
 |---|---|
-| T1082 | System Information Discovery |
+| <a href="https://github.com/sk-athar/SOC-Detection-Engineering-Lab/blob/main/ATTACK-Mappings/T1082-System-Information-Discovery.md">T1082 | System Information Discovery |
 | T1069.001 | Local Group Discovery |
 | T1057 | Process Discovery |
 
