@@ -56,6 +56,7 @@ The lab focuses on:
 - Process tree analysis
 
 <a href="https://github.com/sk-athar/SOC-Detection-Engineering-Lab/blob/main/Architecture/soc-lab-architecture.md">Detailed Lab Architecture
+
 ---
 
 ## ATT&CK Techniques Simulated
