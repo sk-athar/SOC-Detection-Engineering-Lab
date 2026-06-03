@@ -260,5 +260,4 @@ The objective is to demonstrate practical Detection Engineering and SOC Analyst 
 * ATT&CK Coverage Dashboard
 * Detection Metrics & Reporting
 
-```
-```
+---

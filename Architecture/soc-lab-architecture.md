@@ -116,7 +116,7 @@ This layer collects endpoint activity and transforms it into searchable security
 
 ## Sysmon
 
-Sysmon provides detailed endpoint visibility beyond native Windows logging.
+Sysmon (configured using:- swiftonsecurity sysmon) provides detailed endpoint visibility beyond native Windows logging.
 
 ### Key Event IDs
 
